@@ -1,0 +1,10 @@
+{
+  "minecraftFolder": "/home/daniel/.minecraft",
+  "workspaceFolder": "/home/daniel/git",
+  "minecraftUsername": "d4n1el89",
+  "uuid": "a90ff7fd-59f0-489f-9992-8766f5068ad3",
+  "foldersToIgnore": [
+    "fabric-example-mod",
+    "folder2"
+  ]
+}
