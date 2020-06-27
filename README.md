@@ -14,6 +14,9 @@ A simple application to copy your Minecraft access token inside your Fabric deve
 #### How to run FATI: 
 `java -jar fabric-accesstoken-importer-1.0.0-SNAPSHOT.jar`
 
+#### How to build FATI:
+`mvn clean install`
+
 #### Example config.json for Unix file system:
 ```
 {
@@ -27,6 +30,7 @@ A simple application to copy your Minecraft access token inside your Fabric deve
   ]
 }
 ```
+
 
 
 
